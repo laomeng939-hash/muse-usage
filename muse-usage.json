@@ -1,8 +1,1 @@
-{
-  "weekly_remaining_pct": 18,
-  "weekly_used_pct": 82,
-  "reset_time": "2026-11-22T20:22:00+08:00",
-  "reset_text": "11月22日 20:22 重置",
-  "token_pool_remaining_pct": 100,
-  "updated_at": "2026-11-20T02:17:00+08:00"
-}
+{"reset_text":"11月22日 20:22 重置","reset_time":"2026-11-22T20:22:00+08:00","token_pool_remaining_pct":100,"updated_at":"2026-11-20T05:17:00+08:00","weekly_remaining_pct":18,"weekly_used_pct":82}
